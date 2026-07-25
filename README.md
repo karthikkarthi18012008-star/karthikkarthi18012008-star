@@ -5,7 +5,7 @@ B.Tech Artificial Intelligence & Machine Learning Student at REVA University
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Software+Developer;Python+%7C+SQL+%7C+Web+Development;Learning+AI+%26+Machine+Learning;Always+Learning+Something+New+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Machine+Learning+Student;Aspiring+Software+Developer;Web+Developer;Python+Programmer;Data+Analytics+Enthusiast;Always+Learning+Something+New+🚀" alt="Typing SVG"/>
 </p>
 
 ---
@@ -14,22 +14,18 @@ B.Tech Artificial Intelligence & Machine Learning Student at REVA University
 
 🎓 **B.Tech Artificial Intelligence & Machine Learning (AIML)** student at **REVA University**
 
-💻 Passionate about software development, problem-solving, and building real-world applications.
+💻 Passionate about software development, data analytics, and building real-world applications.
 
-🌱 **Currently Learning**
-- Python
-- SQL
-- C Programming
-- HTML5
-- CSS3
-- Data Structures
-- Power BI
+🚀 I enjoy solving problems, learning modern technologies, and creating projects that strengthen my development skills.
 
-🎯 **Goals**
-- 🚀 Become a Full-Stack Developer
-- 🤖 Explore AI & Machine Learning
-- 📊 Build Data Analytics Projects
-- 💼 Secure Internship Opportunities
+🌱 **Currently Exploring**
+- 📊 Power BI
+- 🗄️ SQL
+- 📈 Data Analytics
+- 🤖 AI & Machine Learning
+
+🎯 **Career Goal**
+> To become a skilled Software Engineer with strong expertise in Data Analytics and Artificial Intelligence.
 
 ---
 
@@ -53,7 +49,7 @@ B.Tech Artificial Intelligence & Machine Learning Student at REVA University
 
 ---
 
-# 💻 Languages & Tools
+# 💻 Skills & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,html,css,mysql,git,github,vscode&theme=dark&perline=4"/>
@@ -65,35 +61,26 @@ B.Tech Artificial Intelligence & Machine Learning Student at REVA University
 
 ---
 
+# 🚀 Currently Working On
+
+- 📊 Learning Data Analytics with Power BI
+- 🗄️ Writing SQL Queries
+- 🤖 Exploring AI & Machine Learning
+- 💻 Building Real-World Projects
+- 📚 Improving Programming Skills
+
+---
+
 # 📂 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🐍 Python Programs | Beginner to Intermediate Python Projects |
-| 🌐 Web Development | HTML & CSS Projects |
-| 🗄️ SQL Practice | SQL Queries & Database Design |
-| 📊 Power BI Dashboards | Interactive Data Visualizations |
+| 🚀 Project | 📖 Description |
+|------------|----------------|
+| 🐍 Python Projects | Python programs and mini projects |
+| 🌐 Web Development | HTML & CSS websites |
+| 🗄️ SQL Projects | Database design and SQL practice |
+| 📊 Power BI Dashboards | Interactive business dashboards |
 
-> 🚀 More exciting projects coming soon!
-
----
-
-# 📜 Certifications
-
-- 🎓 Add your Coursera, Cisco, Microsoft, Udemy, or NPTEL certificates here.
-- 🏅 Example: Python for Everybody
-- 🏅 Example: SQL Basics
-- 🏅 Example: Power BI Essentials
-
----
-
-# 📫 Contact Me
-
-📧 **Email:** **Karthikkarthi18012008@gmail.com**
-
-💼 **LinkedIn:** https://www.linkedin.com/in/karthik-t-932564369
-
-🐙 **GitHub:** https://github.com/karthikkarthi18012008
+> ✨ More exciting projects coming soon!
 
 ---
 
@@ -107,8 +94,8 @@ B.Tech Artificial Intelligence & Machine Learning Student at REVA University
 
 <div align="center">
 
-## ⭐ Thank you for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-### 💙 *Learn • Build • Innovate • Grow*
+**Code • Analyze • Build • Innovate 🚀**
 
 </div>
