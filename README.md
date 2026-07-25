@@ -1,111 +1,142 @@
 # 💫 About Me
 
-Hi, I'm **Karthik** 👋
+<h1 align="center">Hi 👋, I'm Karthik</h1>
+<h3 align="center">B.Tech AIML Student | REVA University | Aspiring Software Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+%26+ML+Student;Python+Developer;Web+Development+Learner;Always+Learning+New+Things!" alt="Typing SVG" />
+</p>
+
+---
+
+## 🚀 About Me
 
 🎓 B.Tech Artificial Intelligence & Machine Learning (AIML) student at **REVA University**
 
-💻 Passionate about software development, AI, data analytics, and building practical applications that solve real-world problems.
+💻 Passionate about software development, problem-solving, and building practical applications.
 
 🌱 **Currently Learning**
-- Python
-- SQL
-- C Programming
-- HTML5 & CSS3
-- Data Structures
-- Power BI
+- 🐍 Python
+- 🗄️ SQL
+- 💻 C Programming
+- 🌐 HTML5 & CSS3
+- 📚 Data Structures
+- 📊 Power BI
 
-🎯 **Current Goals**
+🎯 **Goals**
 - 🚀 Become a Full-Stack Developer
 - 🤖 Explore Artificial Intelligence & Machine Learning
-- 📊 Build Data Analytics Projects
+- 📈 Improve Problem-Solving Skills
 - 💼 Secure Internship Opportunities
-- 🏆 Solve DSA problems consistently
+- 🌟 Build Real-World Projects
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-t-932564369)
+<p align="center">
+<a href="https://www.linkedin.com/in/karthik-t-932564369">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthikkarthi18012008)
+<a href="https://github.com/karthikkarthi18012008">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Karthikkarthi18012008@gmail.com)
-
----
-
-# 💻 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Data Analytics
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<a href="mailto:Karthikkarthi18012008@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-# 📈 GitHub Analytics
+# 💻 Languages & Tools
 
-![](https://github-readme-stats.vercel.app/api?username=karthikkarthi18012008&theme=tokyonight&hide_border=true&count_private=true)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,html,css,mysql,git,github,vscode&theme=dark&perline=4"/>
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=karthikkarthi18012008&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikkarthi18012008&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 📊 GitHub Statistics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=karthikkarthi18012008&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikkarthi18012008&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=karthikkarthi18012008&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikkarthi18012008&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🛠️ Current Focus
+
+- 🐍 Python Programming
+- 🗄️ SQL & Database Management
+- 📚 Data Structures & Algorithms
+- 🌐 Web Development
+- 📊 Power BI Dashboards
+- 🤖 Artificial Intelligence & Machine Learning
+
+---
+
+# 📂 Featured Projects
 
 | Project | Description |
-|---------|-------------|
-| 💻 Portfolio Website | Personal portfolio showcasing my skills and projects |
-| 📊 SQL Projects | Database design and SQL query practice |
-| 🐍 Python Programs | Beginner to intermediate Python projects |
-| 🌐 Web Development | HTML & CSS projects |
+|----------|-------------|
+| 🐍 Python Projects | Beginner to Intermediate Python Programs |
+| 🌐 Web Development | HTML & CSS Projects |
+| 🗄️ SQL Projects | Database Design & SQL Queries |
+| 📊 Power BI | Interactive Dashboards & Data Visualization |
 
-*(Update this section as you complete more projects.)*
-
----
-
-## 📚 Currently Working On
-
-- 🔹 Learning Data Structures
-- 🔹 Practicing SQL
-- 🔹 Building Python Projects
-- 🔹 Improving Web Development Skills
-- 🔹 Learning Power BI Dashboards
+> 🚧 More exciting projects coming soon!
 
 ---
 
-## 📈 Coding Profiles
+# ✍️ Random Dev Quote
 
-- 💻 GitHub: https://github.com/karthikkarthi18012008
-- 🔗 LinkedIn: https://www.linkedin.com/in/karthik-t-932564369
-
-*(You can also add LeetCode, HackerRank, or CodeChef profiles here.)*
-
----
-
-### ✍️ Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
 ---
 
-### 👀 Profile Views
+# 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=karthikkarthi18012008&style=for-the-badge&color=blue)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=karthikkarthi18012008&style=for-the-badge&color=blue"/>
+</p>
 
 ---
 
-⭐ *"Learning one project at a time, building one skill at a time."*
+# 📫 Reach Me
+
+📧 **Email:** Karthikkarthi18012008@gmail.com
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/karthik-t-932564369
+
+🐙 **GitHub:** https://github.com/karthikkarthi18012008
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+*"Code • Learn • Build • Repeat"* 🚀
+
+</div>
