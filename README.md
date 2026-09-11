@@ -1,153 +1,98 @@
-<h1 align="center">Hi 👋, I'm Karthik</h1>
-
-<h3 align="center">
-B.Tech Artificial Intelligence & Machine Learning Student at REVA University
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Software+Developer;Python+%7C+SQL+%7C+Web+Development;Learning+AI+%26+Machine+Learning;Always+Learning+Something+New+🚀" />
-</p>
-
----
-
-# 🙋 About Me
-
-🎓 B.Tech **Artificial Intelligence & Machine Learning (AIML)** student at **REVA University**
-
-💻 Passionate about software development, AI, and building practical applications.
-
-✨ I enjoy learning new technologies, solving problems, and continuously improving my programming skills.
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/karthik-t-932564369">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/karthikkarthi18012008">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:Karthikkarthi18012008@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💻 Languages & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,html,css,mysql,git,github,vscode&theme=dark&perline=4"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-- 🐍 Python
-- 🗄 SQL
-- 💻 C Programming
-- 🌐 HTML5
-- 🎨 CSS3
-- 📚 Data Structures
-- 📊 Power BI
-- 🤖 Artificial Intelligence Fundamentals
-
----
-
-# 🎯 Goals
-
-✅ Become a Full-Stack Developer
-
-✅ Build AI & ML Projects
-
-✅ Improve Data Structures & Algorithms
-
-✅ Gain Internship Experience
-
-✅ Contribute to Open Source
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=karthikkarthi18012008&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikkarthi18012008&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=karthikkarthi18012008&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikkarthi18012008&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 📂 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🐍 Python Programs | Beginner to Intermediate Python Projects |
-| 🌐 Web Development | HTML & CSS Projects |
-| 🗄 SQL Practice | SQL Queries & Database Design |
-| 📊 Power BI Dashboards | Interactive Data Visualizations |
-
-> 🚀 More exciting projects coming soon!
-
----
-
-# ✍️ Random Developer Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=karthikkarthi18012008&style=for-the-badge&color=blue"/>
-
-</p>
-
----
-
 <div align="center">
 
-### ⭐ Thank you for visiting my profile! ⭐
+# 👋 Hi, I'm Karthik T
 
-### 💙 *Learn • Build • Innovate • Repeat*
+### 🎓 B.Tech AIML Student | 📊 Aspiring Data Analyst | 💻 Tech Enthusiast
+
+**Turning data into insights and ideas into practical solutions.**
+
+<br>
+
+<a href="https://github.com/karthikkarthi18012008-star">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/karthik-t-932564369">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+Hi! I'm **Karthik**, a B.Tech student specializing in **Artificial Intelligence & Machine Learning** at **REVA University, Bengaluru**.
+
+I'm passionate about **Data Analytics, problem solving, technology, and building real-world applications**.
+
+I enjoy working with data, exploring datasets, creating dashboards, writing SQL queries, and continuously improving my programming and technical skills.
+
+🎯 **Career Goal:** Aspiring Data Analyst
+
+📚 **Currently Learning:** SQL • Python • Power BI • Tableau • Excel • C • Web Development
+
+💡 **Interests:** Data Analytics • Data Visualization • Problem Solving • Web Development • Real-World Applications
+
+🚀 **Approach:** Learn step by step → Build projects → Practice → Improve
+
+---
+
+## 🛠️ Tech Stack
+
+### 📊 Data Analytics & Visualization
+
+<p>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+### 💻 Programming
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### ☁️ Tools & Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+</p>
+
+---
+
+
+
+
+
+## 🌟 Featured Projects
+
+### 📊 Power BI Data Analytics Portfolio
+A collection of interactive Power BI dashboards focused on data cleaning, transformation, visualization, and extracting business insights.
+
+**Tools:** `Power BI` `Power Query` `DAX` `Excel`
+
+🔗 [View Repository](https://github.com/karthikkarthi18012008-star/PowerBI_Data_Analytics_Projects)
+
+---
+
+### 🌾 FarmFresh — AI-Powered Farmer Marketplace
+An AI-powered marketplace connecting farmers, customers, and autonomous AI agents, with an integrated blockchain-based payment workflow.
+
+**Technologies:** `React` `Node.js` `Supabase` `AI Agents` `x402` `Algorand`
+
+🔗 [View Repository](https://github.com/karthikkarthi18012008-star/FarmFresh)
+
+
